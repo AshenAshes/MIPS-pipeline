@@ -1,0 +1,2 @@
+vhdtdtfi -lib work C:/Users/admin/Desktop/CA/lab1/OExp04-IP2CPU/clkdiv.v -lang verilog -prj OExp04-IP2CPU -o clkdiv.spl -module clkdiv -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 clkdiv.spl C:/Users/admin/Desktop/CA/lab1/OExp04-IP2CPU/clkdiv.sym 

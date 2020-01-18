@@ -1,1 +1,0 @@
--intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "C:/Architecture/Lab1_new/SCPU_sim_isim_beh.exe" -prj "C:/Architecture/Lab1_new/SCPU_sim_beh.prj" "work.SCPU_sim" "work.glbl" 
