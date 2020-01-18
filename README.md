@@ -20,3 +20,11 @@ Implement forwarding paths and predict-not-taken
 to make CPU run faster.
 
 ![Lab3](/figure/Lab3_cpu.jpg)
+
+
+### Lab4 pipelined CPU with interruption 
+Design of Pipelined CPU supporting Interrupt, adding co-processor CP0.
+
+Warning: VGA-debug has strange bugs(jump doesn't work), but simulation is correct.
+
+![Lab4](/figure/Lab4_cpu.jpg)
