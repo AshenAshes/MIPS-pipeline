@@ -12,3 +12,4 @@ Extend single-cycle CPU(in Org) to run on Sword V4.
 
 Execute program in pipeline correctly implementing "stall" when have hazards, using flushing approach to solve control hazard. 
 
+![Lab2](/figure/Lab2_cpu.jpg)
