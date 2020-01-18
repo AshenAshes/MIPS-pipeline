@@ -13,3 +13,10 @@ Extend single-cycle CPU(in Org) to run on Sword V4.
 Execute program in pipeline correctly implementing "stall" when have hazards, using flushing approach to solve control hazard. 
 
 ![Lab2](/figure/Lab2_cpu.jpg)
+
+
+### Lab3 Forwarding and predit-not-taken
+Implement forwarding paths and predict-not-taken
+to make CPU run faster.
+
+![Lab3](/figure/Lab3_cpu.jpg)
